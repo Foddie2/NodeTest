@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "first-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foddie2/NodeTest.git"
+  },
+  "author": "Benson Agala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foddie2/NodeTest/issues"
+  },
+  "homepage": "https://github.com/Foddie2/NodeTest#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
